@@ -36,7 +36,7 @@ npm install ui5-task-transpile-gen --save-dev
 builder:
   customTasks:
   - name: ui5-task-transpile-gen
-    afterMiddleware: replaceVersion
+    afterTask: replaceVersion
   bundles:
   - bundleDefinition:
       name: namespace/appname/Component-preload.js

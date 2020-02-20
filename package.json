@@ -1,6 +1,6 @@
 {
   "name": "ui5-task-transpile-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UI5tooling transpile code from ES6 to ES5 including Async Await syntax",
   "main": "index.js",
   "scripts": {
