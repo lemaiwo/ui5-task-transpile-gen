@@ -3,5 +3,5 @@ metadata:
   name: ui5-task-transpile-gen
 kind: extension
 type: task
-middleware:
+task:
   path: lib/transpile.js
