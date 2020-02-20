@@ -1,0 +1,7 @@
+specVersion: '1.0'
+metadata:
+  name: ui5-task-transpile-gen
+kind: extension
+type: task
+middleware:
+  path: lib/transpile.js
