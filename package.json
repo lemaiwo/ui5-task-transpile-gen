@@ -1,6 +1,6 @@
 {
   "name": "ui5-task-transpile-gen",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "UI5tooling transpile code from ES6 to ES5 including Async Await syntax",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
   "dependencies": {
     "@babel/core": "^7.9.0",
     "@babel/plugin-transform-modules-commonjs":"^7.9.0",
+    "@babel/preset-env":"^7.9.0",
     "@ui5/fs": "^1.1.2",
     "colors": "^1.4.0",
     "node-emoji": "^1.10.0",
